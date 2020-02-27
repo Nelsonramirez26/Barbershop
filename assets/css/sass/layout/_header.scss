@@ -1,0 +1,19 @@
+.header{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    color: $white;
+    font-weight: $blackitalic;
+}
+
+.main__container{
+    background: url('../../img/post-image.jpg') no-repeat;
+    background-size: 100%;
+    min-height: 700px;
+}
+
+.main__container__title{
+    padding-top: 100px;
+}

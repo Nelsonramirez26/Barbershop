@@ -1,0 +1,39 @@
+body * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.header {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  color: #fff;
+  font-weight: 900;
+}
+
+.main__container {
+  background: url("../../img/post-image.jpg") no-repeat;
+  background-size: 100%;
+  min-height: 700px;
+}
+
+.main__container__title {
+  padding-top: 100px;
+}
+
+/*# sourceMappingURL=style.css.map */
