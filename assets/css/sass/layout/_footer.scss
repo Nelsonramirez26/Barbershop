@@ -6,10 +6,13 @@ footer{
 
 .logo_footer{
     text-align: center;
-    width: 10%;
     padding-top: 30px;
     padding-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+.logo_footer {
+ @include logo(70px, 100px); 
 }

@@ -6,9 +6,15 @@
 @import 'base/typography';
 
 @import 'components/buttons';
+@import 'components/_navbar';
+@import 'components/pagination';
+
 
 @import 'layout/navigation';
-@import 'layout/header';
+@import 'layout/banner';
+@import 'layout/footer';
+@import 'layout/section-principal';
+@import 'layout/section-contacto';
 
 @import 'pages/home';
 
